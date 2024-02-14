@@ -16,6 +16,7 @@
  - RepeaterBook: https://www.repeaterbook.com/index.php/en-us/
  - Repeater Map: https://repeatermap.us/
  - ARRL Repeater list: https://www.arrl.org/repeaters
+ - RadioReference Wiki: [ https://www.radioreference.com/](https://wiki.radioreference.com/)
 
 ## Web SDR
  - University of Twente - Netherlands: http://websdr.ewi.utwente.nl:8901/
