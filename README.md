@@ -43,6 +43,7 @@
 ## Technical Information
  - Repeater Builder https://www.repeater-builder.com/rbtip/index.html
  - mods.dk - Modification and repair information: https://www.mods.dk/
+ - Mini-Whip Antenna Design: http://www.kiwisdr.com/docs/pa0rdt_whip.pdf
 
 ## Station Lookup
  - FCC ULS: https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp
