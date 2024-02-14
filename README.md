@@ -56,6 +56,8 @@
  - Ham Radio Outlet: https://www.hamradio.com/
  - DX Engineering: https://www.dxengineering.com/
  - GigaParts: https://www.gigaparts.com/
+ - 409Shop - Programming cables, odds and ends: http://409shop.com/
+ - MFJ - Antennas, tuners, much more: https://mfjenterprises.com/
 
 ## D-Star
  - D-Star Info Repeater List- http://www.dstarinfo.com/repeater-list.aspx
